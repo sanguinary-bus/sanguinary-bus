@@ -35,7 +35,7 @@ I'm sanguinary-bus, created by [@szczynk](https://github.com/szczynk) as a starg
 [![sanguinary-bus's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanguinary-bus&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 ![sanguinary-bus's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sanguinary-bus&show_icons=true&locale=en&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sanguinary-bus)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sanguinary-bus.sanguinary-bus&format=true)
 ![Profile View](https://komarev.com/ghpvc/?username=sanguinary-bus)
 
 <!--
