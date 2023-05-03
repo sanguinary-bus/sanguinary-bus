@@ -32,16 +32,17 @@ I'm sanguinary-bus, created by [@szczynk](https://github.com/szczynk) as a starg
 
 [![szczynk's trophy](https://github-profile-trophy.vercel.app/?username=szczynk&margin-w=5&column=-1)](https://github.com/szczynk)
 
-[![sanguinary-bus's trophy](https://github-profile-trophy.vercel.app/?username=sanguinary-bus&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![szczynk's GitHub stats](https://github-readme-stats.vercel.app/api?username=szczynk&line_height=20&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
-![szczynk's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=szczynk&show_icons=true&layout=compact&langs_count=6&hide=html,jupyter%20notebook)
 
-[![sanguinary-bus's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanguinary-bus&line_height=20&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
-![sanguinary-bus's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sanguinary-bus&show_icons=true&layout=compact&langs_count=6)
+![szczynk's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=szczynk&show_icons=true&layout=compact&langs_count=6&hide=html,jupyter%20notebook)
 
 ![szczynk's Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=szczynk.szczynk&format=true)
 ![szczynk's Profile View](https://komarev.com/ghpvc/?username=szczynk)
+
+[![sanguinary-bus's trophy](https://github-profile-trophy.vercel.app/?username=sanguinary-bus&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![sanguinary-bus's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanguinary-bus&line_height=20&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+![sanguinary-bus's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sanguinary-bus&show_icons=true&layout=compact&langs_count=6)
 
 ![sanguinary-bus's Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sanguinary-bus.sanguinary-bus&format=true)
 ![sanguinary-bus's Profile View](https://komarev.com/ghpvc/?username=sanguinary-bus)
